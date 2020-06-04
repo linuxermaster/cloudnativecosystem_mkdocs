@@ -1,0 +1,6 @@
+site_name: 云原生生态圈
+nav:
+  - 主页: "index.md"
+  - 关于: "about.md"
+theme: readthedocs
+repo_url: https://github.com/linuxermaster/kubernetes-ecosystem/
