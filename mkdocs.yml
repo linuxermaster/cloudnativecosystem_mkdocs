@@ -3,4 +3,4 @@ nav:
   - 主页: "index.md"
   - 关于: "about.md"
 theme: readthedocs
-repo_url: https://github.com/linuxermaster/kubernetes-ecosystem/
+repo_url: https://github.com/linuxermaster/cloudnativecosystem_mkdocs.git
