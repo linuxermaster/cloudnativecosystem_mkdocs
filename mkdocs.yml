@@ -6,3 +6,6 @@ nav:
 theme: material
 repo_url: https://github.com/linuxermaster/cloudnativecosystem_mkdocs.git
 repo_name: "Opening on Github"
+site_description: "这是一个mkdocs的demo测试知识库网站"
+site_author: "Marionxue"
+copyright: "1994 - 2020"
